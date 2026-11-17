@@ -1,0 +1,12 @@
+{
+  "name": "quiz-trace-replay",
+  "version": "0.1.0",
+  "description": "Adaptive quiz selection with a replayable explanation for each decision.",
+  "type": "commonjs",
+  "main": "index.js",
+  "exports": "./index.js",
+  "files": ["index.js"],
+  "engines": { "node": ">=22" },
+  "scripts": { "test": "node --test" },
+  "keywords": ["adaptive-learning", "quiz", "replay", "assessment"]
+}
